@@ -1,0 +1,34 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "scince-quiz-e35z9",
+          "appId": "1:908088674365:android:a889ff6ac81fd88c9c8254",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "scince-quiz-e35z9",
+          "configurations": {
+            "android": "1:908088674365:android:a889ff6ac81fd88c9c8254",
+            "ios": "1:908088674365:ios:29072ee698682b159c8254",
+            "macos": "1:908088674365:ios:29072ee698682b159c8254",
+            "web": "1:908088674365:web:843c7599e931eea69c8254",
+            "windows": "1:908088674365:web:69536368c02280ac9c8254"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "auth": {
+    "providers": {}
+  }
+}

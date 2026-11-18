@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908088674365",
+    "project_id": "scince-quiz-e35z9",
+    "storage_bucket": "scince-quiz-e35z9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908088674365:android:a889ff6ac81fd88c9c8254",
+        "android_client_info": {
+          "package_name": "com.example.science_signal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7rRlh6_FcW2D-DZ94abCRKhTM8KdMUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
